@@ -14,7 +14,10 @@ PumperBot sets up buy and sell orders directly through the Binance API. Therefor
 Download the latest version here: https://github.com/ReferralChainCreator/PumperBot/releases/tag/1.1
 
 ## Installation
+
+Please take a look at the installation video on YouTube: https://youtu.be/idsBEQh9DPc
+
 In order to run the executable, please ensure you have installed the Microsoft .NET Framework (download here: https://www.microsoft.com/en-us/download/details.aspx?id=53344).
 
 ## Setup the configuration file
-Please take a look at this YouTube video to see how the bot is set up.
+Edit the file ```config.json``` with a text editor. Take a look at the YouTube installation video (https://youtu.be/idsBEQh9DPc).
