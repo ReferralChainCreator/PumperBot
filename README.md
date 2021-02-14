@@ -5,6 +5,9 @@ ATTENTION: Participating in pump and dump schemes is very risky. You can lose al
 ## What is PumperBot?
 PumperBot sets up buy and sell orders directly through the Binance API. Therefore you can participate in pump and dump schemes in a fully automated manner.
 
+## Buy a license
+Please contact me via email to buy a license: cryptozentauro@gmail.com
+
 ## Hall of fame - some YouTube videos where you see the bot in action
 * 36k in seconds (Binance): https://youtu.be/AT3-EW8An6Q
 * 3 BTC in under 1 minute (Cryptopia): https://www.youtube.com/watch?v=R40ecP97kL0
