@@ -17,9 +17,9 @@ Download the latest version here: https://github.com/ReferralChainCreator/Pumper
 
 ## Installation
 
-Please take a look at the installation video on YouTube: https://youtu.be/idsBEQh9DPc
+Please take a look at the installation video on YouTube: https://youtu.be/Ye7rrtoCRY8
 
 In order to run the executable, please ensure you have installed the Microsoft .NET Framework (download here: https://www.microsoft.com/en-us/download/details.aspx?id=53344).
 
 ## Setup the configuration file
-Edit the file ```config.json``` with a text editor. Take a look at the YouTube installation video (https://youtu.be/idsBEQh9DPc).
+Edit the file ```config.json``` with a text editor. Take a look at the YouTube installation video (https://youtu.be/Ye7rrtoCRY8).
